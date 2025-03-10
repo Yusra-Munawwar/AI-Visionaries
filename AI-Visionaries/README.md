@@ -49,3 +49,5 @@ Future Improvements
 
 Conclusion
 This deep learning model effectively classifies diabetic retinopathy severity using transfer learning. It offers a promising approach for *early diagnosis and medical intervention*.
+
+
