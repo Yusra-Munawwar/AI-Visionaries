@@ -1,6 +1,7 @@
 Diabetic Retinopathy Detection using Deep Learning
 
 MODEL LINK = https://drive.google.com/file/d/1V_orn1NIUS7881833dDI78WF-vDI3Fxw/view?usp=drive_link
+
 DEMO VIDEO LINK = https://drive.google.com/file/d/1uEndcbjy8qxujPhfUHBgqF6y92V9vO3K/view?usp=drive_link
 
 Introduction
