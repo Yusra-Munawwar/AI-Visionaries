@@ -1,5 +1,8 @@
 Diabetic Retinopathy Detection using Deep Learning
 
+MODEL LINK = https://drive.google.com/file/d/1V_orn1NIUS7881833dDI78WF-vDI3Fxw/view?usp=drive_link
+DEMO VIDEO LINK = https://drive.google.com/file/d/1uEndcbjy8qxujPhfUHBgqF6y92V9vO3K/view?usp=drive_link
+
 Introduction
 Diabetic Retinopathy (DR) is a severe eye disease caused by diabetes, leading to vision impairment. This project leverages *transfer learning with ResNet152V2* to classify DR images and aid in early detection.
 
